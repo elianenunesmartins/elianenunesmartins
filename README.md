@@ -45,6 +45,22 @@ Realizar o tratamento, a análise exploratória e a visualização de uma base d
 
 ➡️ [Acessar repositório](https://github.com/elianenunesmartins/imersao-alura-analise-dados-python-2026)
 
+
+🔹 **Projetos em Power BI – Dashboards Analíticos**
+
+Conjunto de dashboards desenvolvidos durante um intensivão de Power BI, com foco na construção de visualizações interativas e análise de indicadores em diferentes contextos de dados.
+
+📊 **Dashboards desenvolvidos**
+- Financeiro  
+- Recursos Humanos (RH)  
+- Vendas  
+- Produção  
+
+🎯 **Objetivo**  
+Explorar a criação de dashboards interativos em Power BI para análise de indicadores, organização de informações e comunicação visual de dados.
+O
+➡️ [Acessar repositório](https://github.com/elianenunesmartins/powerbi-projetos)
+
 *(Novos projetos em Ciência de Dados e Estatística Aplicada serão adicionados em breve)*
 
 ---
